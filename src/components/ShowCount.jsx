@@ -1,6 +1,6 @@
 import './ShowCount.css'
 /* eslint-disable no-unused-vars */
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 // eslint-disable-next-line react/prop-types
 const ShowCount = ({ initialCount }) => {
